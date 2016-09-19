@@ -1,0 +1,45 @@
+body {
+	background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    text-align:center; 
+}
+
+table, td, th {
+    border: 1px solid red;
+    text-align:center
+}
+
+table {
+    border-collapse: collapse;
+    width: 50%;
+    margin-left:auto; 
+    margin-right:auto;
+}
+
+th {
+    height: 50px;
+}
+div {
+    width: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
+}
+.loginposition {
+	position: absolute;
+	top: 220px;
+    right: 150px;
+    width: 300px;
+    border: 3px solid #73AD21;
+    padding: 10px;
+    background-color:lightblue;
+}
+h1 {
+	text-align: center;
+	font-size: 200%;
+}
+input {
+	width: 50%;
+	height: 20px;
+}
