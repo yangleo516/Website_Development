@@ -1,0 +1,11 @@
+Name				ID
+Leo Yang			445654
+Jennie Liu			445397
+
+Link : http://ec2-54-197-197-223.compute-1.amazonaws.com/~yleo/module3/groupwork/login.php
+
+Description of creative portion:
+1. like
+	-- user is able to click the like button if they like the story
+2. view my stories
+	-- an valid user is able to view all of his stories.
